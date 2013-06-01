@@ -14,4 +14,6 @@ In cloud computing, the word cloud (also phrased as "the cloud") is used as a me
 Cloud computing is comparable to grid computing, a type of computing where unused processing cycles of all computers in a network are harnesses to solve problems too intensive for any stand-alone machine.
 Cloud computing comes into focus only when you think about what IT always needs: a way to increase capacity or add capabilities on the fly without investing in new infrastructure, training new personnel, or licensing new software. Cloud computing encompasses any subscription-based or pay-per-use service that, in real time over the Internet, extends IT's existing capabilities.
 
+view more http://en.wikipedia.org/wiki/Cloud_computing
+
 

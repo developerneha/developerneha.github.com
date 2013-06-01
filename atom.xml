@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://developerneha.github.io/atom.xml" rel="self"/>
   <link href="http://developerneha.github.io/"/>
-  <updated>2013-06-01T14:30:50+05:30</updated>
+  <updated>2013-06-01T14:35:59+05:30</updated>
   <id>http://developerneha.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,6 +19,8 @@
     <updated>2013-06-01T14:18:00+05:30</updated>
     <id>http://developerneha.github.io/blog/2013/06/01/neha</id>
     <content type="html"><![CDATA[<p>this is my first blog&hellip;.plz comment&hellip;.
+thanku
+have a nice day :)
 :)</p>
 ]]></content>
   </entry>

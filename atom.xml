@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://developerneha.github.io/atom.xml" rel="self"/>
   <link href="http://developerneha.github.io/"/>
-  <updated>2013-06-02T02:45:19+05:30</updated>
+  <updated>2013-06-02T02:49:31+05:30</updated>
   <id>http://developerneha.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,27 +19,6 @@
     <updated>2013-06-02T02:35:00+05:30</updated>
     <id>http://developerneha.github.io/blog/2013/06/02/cloud-computing</id>
     <content type="html"><![CDATA[<p>Cloud computing comes into focus only when you think about what IT always needs: a way to increase capacity or add capabilities on the fly without investing in new infrastructure, training new personnel, or licensing new software. Cloud computing encompasses any subscription-based or pay-per-use service that, in real time over the Internet, extends IT&rsquo;s existing capabilities.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Neha]]></title>
-    <link href="http://developerneha.github.io/blog/2013/06/01/neha/"/>
-    <updated>2013-06-01T00:00:00+05:30</updated>
-    <id>http://developerneha.github.io/blog/2013/06/01/neha</id>
-    <content type="html"><![CDATA[<p>&mdash;
-layout: post
-title: &ldquo;my first blog&rdquo;
-date: 2013-06-01 14:18
-comments: true
-categories:</p>
-
-<h2>author: neha</h2>
-
-<p>this is my first blog&hellip;.plz comment&hellip;.
-thanku
-have a nice day :)
-:)</p>
 ]]></content>
   </entry>
   

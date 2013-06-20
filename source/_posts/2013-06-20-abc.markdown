@@ -1,0 +1,9 @@
+---
+layout: post
+title: "abc"
+date: 2013-06-20 19:27
+comments: true
+categories: 
+---
+my new post....
+

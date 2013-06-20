@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
-  <title><![CDATA[BLOG]]></title>
+  <title><![CDATA[TECHNOCRAT]]></title>
   <link href="http://developerneha.github.io/atom.xml" rel="self"/>
   <link href="http://developerneha.github.io/"/>
-  <updated>2013-06-04T18:59:47+05:30</updated>
+  <updated>2013-06-20T19:35:46+05:30</updated>
   <id>http://developerneha.github.io/</id>
   <author>
     <name><![CDATA[Neha Babbar]]></name>
@@ -12,6 +11,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[abc def]]></title>
+    <link href="http://developerneha.github.io/blog/2013/06/20/abc/"/>
+    <updated>2013-06-20T19:27:00+05:30</updated>
+    <id>http://developerneha.github.io/blog/2013/06/20/abc</id>
+    <content type="html"><![CDATA[<p>my new post.
+new to twitter
+trends</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New]]></title>
+    <link href="http://developerneha.github.io/blog/2013/06/20/new/"/>
+    <updated>2013-06-20T18:47:00+05:30</updated>
+    <id>http://developerneha.github.io/blog/2013/06/20/new</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CLOUD COMPUTING]]></title>
@@ -26,8 +45,6 @@
 
 <p>Cloud computing is comparable to grid computing, a type of computing where unused processing cycles of all computers in a network are harnesses to solve problems too intensive for any stand-alone machine.
 Cloud computing comes into focus only when you think about what IT always needs: a way to increase capacity or add capabilities on the fly without investing in new infrastructure, training new personnel, or licensing new software. Cloud computing encompasses any subscription-based or pay-per-use service that, in real time over the Internet, extends IT&rsquo;s existing capabilities.</p>
-
-<p><video width='640' height='320' preload='none' controls poster='http://s3.imathis.com/video/zero-to-fancy-buttons.png'><source src='http://s3.imathis.com/video/zero-to-fancy-buttons.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
 
 <p>view more :<a href="http://www.youtube.com/watch?v=o84iA9A9QLg&amp;feature=pyv&amp;ad=3465927956&amp;kw=cloud%20computing">http://www.youtube.com/watch?v=o84iA9A9QLg&amp;feature=pyv&amp;ad=3465927956&amp;kw=cloud%20computing</a></p>
 ]]></content>

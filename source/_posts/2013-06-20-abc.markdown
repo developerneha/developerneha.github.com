@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "abc"
+title: "abc def"
 date: 2013-06-20 19:27
 comments: true
 categories: 
 ---
-my new post....
-
+my new post.
+new to twitter
+trends
